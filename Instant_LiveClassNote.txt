@@ -1,0 +1,40 @@
+*************************************************
+FSD Phase[4] Live class-One
+Date: 3rd April 2021
+*************************************************
+Agenda Of Today:
+---------------------------
+1. HTML CSS JS
+2. Bootstrap
+3. Angular 2+ 
+----------------------------------------------------------------
+Github LinK: https://github.com/wahidKhan74/phase4-bootstrap-fundamentals-04-03-2021
+
+-----------------------------------------------------------------
+Things To Cover:
+---------------------
+Self learning: Sec: 1, 2 and 3
+________________________________________________________________________
+
+Bootstrap:
+----------------------------------------------------------------
+
+Links:
+--------
+1. getbootstrap.com  choose: v4.6 
+2. https://getbootstrap.com/docs/4.6/getting-started/introduction/ 
+3. jquery file: https://code.jquery.com/jquery-3.5.1.slim.min.js
+4. https://getbootstrap.com/docs/4.6/components/alerts/
+
+
+
+Command Shortcut for Visual Studio:
+---------------------------------------------------
+-> Shift+i : Emmet Abbriviation to Write the basic format of HTML \
+-> generating a tag with class: div.alert 
+-> generating a tag with id : div#unique-param 
+
+Integrating Bootstrap; 
+-> Bootstap downloading is better one instead of using CDN Link 
+-> style ="width:400px" 
+->   
