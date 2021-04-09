@@ -50,6 +50,7 @@ API -> Endpoint -> URI
 -> Bootstrap
 -> Angular 
 ```
+_Angular +2 is a typescript based application_. 
 
 # __FSD Phase-5__
 
